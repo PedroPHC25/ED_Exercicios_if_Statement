@@ -16,8 +16,8 @@ int main()
     // -- (110, 1.70): Severe obesity (obesidade severa)
     // -- (120, 1.70): Morbid obesity (obesidade mórbida)
 
-    // Peso e altura
-    float weight = 120;
+    // INSIRA AQUI O PESO E A ALTURA
+    float weight = 60;
     float height = 1.70;
 
     // Calculando o IMC (BMI, em inglês)
